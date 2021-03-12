@@ -1,16 +1,36 @@
-### Hi there 👋
+# Gideon Alves
 
-<!--
-**gideonalves/gideonalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Gideon%20Alves-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/gideonalves)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/gideon-alves/)
 
-Here are some ideas to get you started:
+<p>Sobre mim 💪</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Breve resulmo sobre mim
+Sou estudande de desenvolvimento</p>
+
+<p>Gosto muito de tecnogia, curto praticar</p>
+
+
+<p>O que eu gosto de fazer na programação / meus objetivos
+onde pretendo chegar
+qual é a minha motivação</p>
+
+- seus hobs
+- oque você esta aprendendo
+- oque você ama
+- linguagens
+  
+  #
+<strong>Tecnologias e Ferramentas</strong><br><br>
+![Badge](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23F7DF1C&amp;color=%23FFCE5A)
+![Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=%23ffffff)
+![Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Badge](http://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+**TEXXTO NEGRITO**
+
+
+
