@@ -12,7 +12,7 @@
 <p>Ao longo do tempo descobri a área de desenvolvimento... </p>
 
 - Atualmente estou aprendendo HTML, CSS, Javascript, Node JS, Banco de dados, React.
-- 📫 Entre em contato comigo gideonalves20@gmail.com 
+- 📫 Entre em contato comigo gideonam20@gmail.com 
   #
 
 👨‍💻  **Cursos**
