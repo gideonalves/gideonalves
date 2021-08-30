@@ -22,12 +22,14 @@
   
   #
 <strong>Tecnologias e Ferramentas</strong><br><br>
+<a href="https://github.com/gideonalves">
 ![Badge](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Badge](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23F7DF1C&amp;color=%23FFCE5A)
 ![Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=%23ffffff)
 ![Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  </a>
 
 
 
