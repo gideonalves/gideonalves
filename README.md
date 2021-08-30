@@ -35,11 +35,13 @@
 
 <a href="https://github.com/gideonalves">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideonalves)](https://github.com/gideonalves/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideonalves&show_icons=true&theme=radical)
   </a>
 
+<a href="https://github.com/gideonalves">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideonalves&show_icons=true&theme=radical)
+  
+</a>
 
 
 
