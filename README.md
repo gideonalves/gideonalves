@@ -32,16 +32,13 @@
   </a>
 
 
-
+<div>
 <a href="https://github.com/gideonalves">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideonalves)](https://github.com/gideonalves/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonalves&theme=dracula&layout=compact%22%3E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gideonalves&theme=dracula&show_icons=true&include_all_commits=true&count_private=true%22%3E">
   </a>
 
-<a href="https://github.com/gideonalves">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gideonalves&show_icons=true&theme=radical)
-  
-</a>
+</div>
 
 
 
